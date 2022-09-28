@@ -1,4 +1,6 @@
 {
   "org-instance-url": "https://copado-5e--dxdev1.sandbox.my.salesforce.com",
-  "org-api-version": "55.0"
+  "org-api-version": "55.0",
+  "target-dev-hub": "ya-light1@copado.com",
+  "target-org": "ya-light1@copado.com"
 }

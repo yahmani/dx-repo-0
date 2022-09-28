@@ -5,7 +5,7 @@
         "versionNumber": "",
         "dependencies": [],
         "default": true,
-        "package": "doom"
+        "package": ""
     }],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
