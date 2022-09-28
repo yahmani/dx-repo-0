@@ -1,5 +1,6 @@
 {
   "instanceUrl": "https://copado-5e--dxdev1.sandbox.my.salesforce.com",
   "apiVersion": "55.0",
-  "defaultdevhubusername": "ya-light1@copado.com"
+  "defaultdevhubusername": "ya-light1@copado.com",
+  "defaultusername": "ya-light1@copado.com"
 }
